@@ -1,4 +1,4 @@
-To follow along check out Coding Money Tutorial Video: [How to Use Google AI Cloud Vision API to Analyze Images][https://www.youtube.com/watch?v=I1dv2bOYhds] that accompanies this repo.
+To follow along check out Coding Money Tutorial Video: [How to Use Google AI Cloud Vision API to Analyze Images](https://www.youtube.com/watch?v=I1dv2bOYhds) that accompanies this repo.
 
 To run the code: 
 
